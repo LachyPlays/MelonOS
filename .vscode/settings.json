@@ -1,0 +1,10 @@
+{
+    "files.exclude": {
+        "": true,
+        "**/*.elf": true,
+        "**/*.o": true
+    },
+    "files.associations": {
+        "vga.h": "c"
+    }
+}
