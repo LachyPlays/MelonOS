@@ -20,7 +20,7 @@ To build with this method, simply execute
 in the root folder. This will create the os.img file. 
 Its that easy!
 
-## 2. Using docker
+## 2. Using [docker](https://docs.docker.com/engine/install/)
 This takes longer to compile, but is much simpler
 to setup as it does all the toolchain hassle for you. 
 The dockerfile included in the project will build
