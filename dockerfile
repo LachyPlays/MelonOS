@@ -32,3 +32,4 @@ WORKDIR /
 RUN rm -rf /source
 RUN mkdir melonos && mkdir melonos/kernel && mkdir melonos/bootloader
 WORKDIR /melonos
+ENV PATH="$PATH:/bin/bin"
